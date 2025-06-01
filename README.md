@@ -1,8 +1,27 @@
-# Resumintic
+# 📄 Resumintic
 
-Resumintic is a NextJS application built in Firebase Studio that helps you create professional, ATS-friendly resumes with AI assistance.
+**Resumintic** is a modern, AI-powered resume builder built with **Next.js** and deployed using **Firebase Studio**. It enables users to effortlessly create professional, ATS-friendly resumes and kickstart their career journeys.
 
-A new start a career journey.
+🌐 [Live Demo →](https://resumintic-pushpendra-kumar-shuklas-projects.vercel.app/)
 
-To get started, explore the application and build your resume by navigating to the `/build` page.
-Look at `src/app/page.tsx` for the landing page and `src/app/build/page.tsx` for the main resume building functionality.
+![Resumintic Preview](https://github.com/PushpendraShukla19/Resumintic/blob/main/Resumintic%20App%20Image.png?raw=true)
+
+---
+
+## 🚀 Features
+
+- ✅ **AI Assistance** for resume content generation
+- 🧠 **ATS-friendly Format** to boost your resume’s success rate
+- ⚡ **Next.js 13+ App Router** based architecture
+- 🔥 **Firebase Studio Integration** for real-time deployment
+- 🎨 Clean, minimalistic, and responsive UI
+- 🧱 Modular structure for easy scalability and maintenance
+
+---
+
+## 🧭 Getting Started
+
+To use the app:
+
+1. Visit the live site: [resumintic.vercel.app](https://resumintic-pushpendra-kumar-shuklas-projects.vercel.app/)
+2. Click on `Get Started` or navigate directly to the resume builder via `/build`:
